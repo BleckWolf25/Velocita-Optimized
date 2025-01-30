@@ -38,9 +38,11 @@ A performance-focused modpack that enhances your Minecraft experience while main
 - Recommended RAM: 4GB allocated
 - Java 17 or higher
 
-## Included Mods
+## Wiki
 
-See the modlist in our future wiki which is coming soon! [01/28/2025]
+Check our wiki!
+
+- [Wiki GitHub](https://github.com/JotaRYT/VO-Wiki)
 
 ## External Resources
 
