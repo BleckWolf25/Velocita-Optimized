@@ -1,6 +1,6 @@
 # Velocita-Optimized
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-+1.20-green)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-+1.16.5-green)
 ![Modloader](https://img.shields.io/badge/Modloader-Fabric-blue)
 ![Modloader](https://img.shields.io/badge/Modloader-NeoForge-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
