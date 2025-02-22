@@ -44,6 +44,7 @@ A performance-focused modpack that enhances your Minecraft experience while main
 Check our wiki!
 
 - [Wiki GitHub](https://github.com/JotaRYT/VO-Wiki)
+- [Wiki Website](https://jotaryt.github.io/VO-Wiki/)
 
 ## External Resources
 
