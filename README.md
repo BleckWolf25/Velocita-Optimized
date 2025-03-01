@@ -43,14 +43,14 @@ A performance-focused modpack that enhances your Minecraft experience while main
 
 Check our wiki!
 
-- [Wiki GitHub](https://github.com/JotaRYT/VO-Wiki)
-- [Wiki Website](https://jotaryt.github.io/VO-Wiki/)
+- [Wiki GitHub](https://github.com/BleckWolf25/VO-Wiki)
+- [Wiki Website](https://bleckwolf25.github.io/VO-Wiki/)
 
 ## External Resources
 
 - [Modrinth Page](https://modrinth.com/modpack/velocita-optimized)
 - [Discord Support](https://discord.com/invite/evhMuYeSYJ)
-- [Bug Reports](https://github.com/JotaRYT/Velocita-Optimized/issues)
+- [Bug Reports](https://github.com/BleckWolf25/Velocita-Optimized/issues)
 
 ## Contributing
 
