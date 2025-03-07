@@ -1,0 +1,20 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+*.bak
+
+# IDE specific files
+.idea/
+*.vscode/
+*.project
+*.user
+*.ipr
+*.iws
