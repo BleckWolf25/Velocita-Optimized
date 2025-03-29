@@ -1,7 +1,7 @@
 # Velocita-Optimized
 
 ![Oldest Minecraft Version Supported](https://img.shields.io/badge/Minecraft_Oldest_Version-1.16.5-sucess)
-![Newest Minecraft Version Supported](https://img.shields.io/badge/Minecraft_Newest_Version-1.21.4-green)
+![Newest Minecraft Version Supported](https://img.shields.io/badge/Minecraft_Newest_Version-1.21.5-green)
 ![Modloader](https://img.shields.io/badge/Modloader-Fabric-blue)
 ![Modloader](https://img.shields.io/badge/Modloader-NeoForge-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -44,7 +44,7 @@ A performance-focused modpack that enhances your Minecraft experience while main
 Check our wiki!
 
 - [Wiki GitHub](https://github.com/BleckWolf25/VO-Wiki)
-- [Wiki Website](https://bleckwolf25.github.io/VO-Wiki/)
+- [Wiki Website]()
 
 ## External Resources
 
