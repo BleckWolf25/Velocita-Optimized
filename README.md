@@ -24,6 +24,7 @@ Velocita Optimized is all about giving you the best Minecraft performance possib
 - 🛠️ **Quality of life improvements (Plus versions):** Adds helpful tweaks to the game (in "Plus" versions).
 - 📊 **Better resource management:** Uses your computer's power efficiently.
 - 🖥️ **Optimized for all systems:** Runs well on both low-end and high-end PCs.
+- 💻 **Optimized for most Operative Systems:** Runs well on Windows and MacOs.
 - ✅ **Maintains Vanilla Feel:** Keeps the core Minecraft experience intact.
 
 ## No Version Left Behind (Almost\!)
