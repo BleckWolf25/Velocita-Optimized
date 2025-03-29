@@ -1,10 +1,10 @@
 # Velocita Optimized
 
-![Oldest Minecraft Version Supported](about:sanitized)
-![Newest Minecraft Version Supported](about:sanitized)
-![Modloader](about:sanitized)
-![Modloader](about:sanitized)
-![Status](about:sanitized)
+![Oldest Minecraft Version Supported](https://img.shields.io/badge/Minecraft_Oldest_Version-1.16.5-sucess)
+![Newest Minecraft Version Supported](https://img.shields.io/badge/Minecraft_Newest_Version-1.21.5-green)
+![Modloader](https://img.shields.io/badge/Modloader-Fabric-blue)
+![Modloader](https://img.shields.io/badge/Modloader-NeoForge-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 **Supercharge your Minecraft\!** 🚀 Velocita Optimized is a modpack designed to make your game run faster and smoother, without changing the core Minecraft experience. We also offer optional tweaks to make things even better\!
 
